@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+psdata/
+pubkey.json
+note/
+
+.env.*
+
+# Editor directories and files
+.devcontainer
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
